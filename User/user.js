@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
             time: "19:00",
             category: "Standup Comedy",
             image: "/images/basketball.png",
-            joinLink: "/User/Join.html",
-            detailsLink: "/User/detail.html",
+            joinLink: "User/Join.html",
+            detailsLink: "User/detail.html",
         },
         {
             id: 2,
@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
             time: "18:00",
             category: "Tech Event",
             image: "/images/basketball.png",
-            joinLink: "/User/Join.html",
-            detailsLink: "/User/detail.html",
+            joinLink: "User/Join.html",
+            detailsLink: "User/detail.html",
         },
         {
             id: 3,
@@ -35,8 +35,8 @@ document.addEventListener("DOMContentLoaded", function () {
             time: "18:00",
             category: "Education",
             image: "/images/basketball.png",
-            joinLink: "/User/Join.html",
-            detailsLink: "/User/detail.html",
+            joinLink: "User/Join.html",
+            detailsLink: "User/detail.html",
         }
     ];
 
