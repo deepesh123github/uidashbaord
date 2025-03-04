@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
             time: "19:00",
             category: "Standup Comedy",
             image: "./images/basketball.png",
-            joinLink: "/Admin/admin/Join.html",
-            detailsLink: "/Admin/detail.html",
+            joinLink: "./Admin/admin/Join.html",
+            detailsLink: "./Admin/detail.html",
         },
         {
             id: 2,
