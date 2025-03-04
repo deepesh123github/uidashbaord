@@ -10,9 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
             date: "2024-09-18",
             time: "19:00",
             category: "Standup Comedy",
-            image: "/images/basketball.png",
-            joinLink: "/Admin/admin/Join.html",
-            detailsLink: "/Admin/status/verify.html",
+            image: "./images/basketball.png",
+            joinLink: "./Admin/admin/Join.html",
+            detailsLink: "./Admin/status/verify.html",
         },
         {
             id: 2,
@@ -22,9 +22,9 @@ document.addEventListener("DOMContentLoaded", function () {
             date: "2024-09-10",
             time: "18:00",
             category: "Tech Event",
-            image: "/images/basketball.png",
-            joinLink: "/Admin/admin/Join.html",
-            detailsLink: "/Admin/status/verify.html",
+            image: "./images/basketball.png",
+            joinLink: "./Admin/admin/Join.html",
+            detailsLink: "./Admin/status/verify.html",
         },
         {
             id: 3,
@@ -34,9 +34,9 @@ document.addEventListener("DOMContentLoaded", function () {
             date: "2024-09-10",
             time: "18:00",
             category: "Education",
-            image: "/images/basketball.png",
-            joinLink: "/Admin/admin/Join.html",
-            detailsLink: "/Admin/status/verify.html",
+            image: "./images/basketball.png",
+            joinLink: "./Admin/admin/Join.html",
+            detailsLink: "./Admin/status/verify.html",
         }
     ];
 
